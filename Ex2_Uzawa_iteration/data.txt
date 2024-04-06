@@ -1,0 +1,13 @@
+
+tau =
+
+   2.5000e-02
+
+
+h_partition =
+
+   1.5625e-02   1.5625e-02
+
+Current time T = 2.500000e-02:iterate 300 steps convergence!
+Current time T = 5.000000e-02:iterate 43 steps convergence!
+

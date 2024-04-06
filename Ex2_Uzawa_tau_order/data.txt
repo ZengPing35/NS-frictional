@@ -1,0 +1,281 @@
+h_partition =
+
+   3.1250e-02   3.1250e-02
+
+
+tau =
+
+   1.5625e-03
+
+Current time T = 1.562500e-03:iterate 2 steps convergence!
+Current time T = 3.125000e-03:iterate 2 steps convergence!
+Current time T = 4.687500e-03:iterate 2 steps convergence!
+if system_dependent('IsDebugMode')==1, dbcont; end
+Current time T = 6.250000e-03:iterate 712 steps convergence!
+Current time T = 7.812500e-03:iterate 11 steps convergence!
+Current time T = 9.375000e-03:iterate 28 steps convergence!
+Current time T = 1.093750e-02:iterate 36 steps convergence!
+Current time T = 1.250000e-02:iterate 37 steps convergence!
+Current time T = 1.406250e-02:iterate 5 steps convergence!
+Current time T = 1.562500e-02:iterate 8 steps convergence!
+Current time T = 1.718750e-02:iterate 10 steps convergence!
+Current time T = 1.875000e-02:iterate 19 steps convergence!
+Current time T = 2.031250e-02:iterate 4 steps convergence!
+Current time T = 2.187500e-02:iterate 2 steps convergence!
+Current time T = 2.343750e-02:iterate 2 steps convergence!
+Current time T = 2.500000e-02:iterate 33 steps convergence!
+Current time T = 2.656250e-02:iterate 3 steps convergence!
+Current time T = 2.812500e-02:iterate 2 steps convergence!
+Current time T = 2.968750e-02:iterate 2 steps convergence!
+Current time T = 3.125000e-02:iterate 2 steps convergence!
+Current time T = 3.281250e-02:iterate 2 steps convergence!
+Current time T = 3.437500e-02:iterate 32 steps convergence!
+Current time T = 3.593750e-02:iterate 2 steps convergence!
+Current time T = 3.750000e-02:iterate 2 steps convergence!
+Current time T = 3.906250e-02:iterate 2 steps convergence!
+Current time T = 4.062500e-02:iterate 2 steps convergence!
+Current time T = 4.218750e-02:iterate 2 steps convergence!
+Current time T = 4.375000e-02:iterate 2 steps convergence!
+Current time T = 4.531250e-02:iterate 2 steps convergence!
+Current time T = 4.687500e-02:iterate 2 steps convergence!
+Current time T = 4.843750e-02:iterate 2 steps convergence!
+Current time T = 5.000000e-02:iterate 2 steps convergence!
+Current time T = 5.156250e-02:iterate 2 steps convergence!
+Current time T = 5.312500e-02:iterate 2 steps convergence!
+Current time T = 5.468750e-02:iterate 2 steps convergence!
+Current time T = 5.625000e-02:iterate 2 steps convergence!
+Current time T = 5.781250e-02:iterate 2 steps convergence!
+Current time T = 5.937500e-02:iterate 2 steps convergence!
+Current time T = 6.093750e-02:iterate 2 steps convergence!
+Current time T = 6.250000e-02:iterate 2 steps convergence!
+Current time T = 6.406250e-02:iterate 2 steps convergence!
+Current time T = 6.562500e-02:iterate 2 steps convergence!
+Current time T = 6.718750e-02:iterate 2 steps convergence!
+Current time T = 6.875000e-02:iterate 2 steps convergence!
+Current time T = 7.031250e-02:iterate 2 steps convergence!
+Current time T = 7.187500e-02:iterate 2 steps convergence!
+Current time T = 7.343750e-02:iterate 2 steps convergence!
+Current time T = 7.500000e-02:iterate 2 steps convergence!
+Current time T = 7.656250e-02:iterate 2 steps convergence!
+Current time T = 7.812500e-02:iterate 2 steps convergence!
+Current time T = 7.968750e-02:iterate 2 steps convergence!
+Current time T = 8.125000e-02:iterate 2 steps convergence!
+Current time T = 8.281250e-02:iterate 2 steps convergence!
+Current time T = 8.437500e-02:iterate 2 steps convergence!
+Current time T = 8.593750e-02:iterate 2 steps convergence!
+Current time T = 8.750000e-02:iterate 2 steps convergence!
+Current time T = 8.906250e-02:iterate 2 steps convergence!
+Current time T = 9.062500e-02:iterate 2 steps convergence!
+Current time T = 9.218750e-02:iterate 2 steps convergence!
+Current time T = 9.375000e-02:iterate 2 steps convergence!
+Current time T = 9.531250e-02:iterate 2 steps convergence!
+Current time T = 9.687500e-02:iterate 2 steps convergence!
+Current time T = 9.843750e-02:iterate 2 steps convergence!
+Current time T = 1.000000e-01:iterate 2 steps convergence!
+Current time T = 1.015625e-01:iterate 2 steps convergence!
+Current time T = 1.031250e-01:iterate 2 steps convergence!
+Current time T = 1.046875e-01:iterate 2 steps convergence!
+Current time T = 1.062500e-01:iterate 2 steps convergence!
+Current time T = 1.078125e-01:iterate 2 steps convergence!
+Current time T = 1.093750e-01:iterate 2 steps convergence!
+Current time T = 1.109375e-01:iterate 2 steps convergence!
+Current time T = 1.125000e-01:iterate 2 steps convergence!
+Current time T = 1.140625e-01:iterate 2 steps convergence!
+Current time T = 1.156250e-01:iterate 2 steps convergence!
+Current time T = 1.171875e-01:iterate 2 steps convergence!
+Current time T = 1.187500e-01:iterate 2 steps convergence!
+Current time T = 1.203125e-01:iterate 2 steps convergence!
+Current time T = 1.218750e-01:iterate 2 steps convergence!
+Current time T = 1.234375e-01:iterate 2 steps convergence!
+Current time T = 1.250000e-01:iterate 2 steps convergence!
+Current time T = 1.265625e-01:iterate 2 steps convergence!
+Current time T = 1.281250e-01:iterate 2 steps convergence!
+Current time T = 1.296875e-01:iterate 2 steps convergence!
+Current time T = 1.312500e-01:iterate 2 steps convergence!
+Current time T = 1.328125e-01:iterate 2 steps convergence!
+Current time T = 1.343750e-01:iterate 2 steps convergence!
+Current time T = 1.359375e-01:iterate 2 steps convergence!
+Current time T = 1.375000e-01:iterate 2 steps convergence!
+Current time T = 1.390625e-01:iterate 2 steps convergence!
+Current time T = 1.406250e-01:iterate 2 steps convergence!
+Current time T = 1.421875e-01:iterate 2 steps convergence!
+Current time T = 1.437500e-01:iterate 2 steps convergence!
+Current time T = 1.453125e-01:iterate 2 steps convergence!
+Current time T = 1.468750e-01:iterate 2 steps convergence!
+Current time T = 1.484375e-01:iterate 2 steps convergence!
+Current time T = 1.500000e-01:iterate 2 steps convergence!
+Current time T = 1.515625e-01:iterate 2 steps convergence!
+Current time T = 1.531250e-01:iterate 2 steps convergence!
+Current time T = 1.546875e-01:iterate 2 steps convergence!
+Current time T = 1.562500e-01:iterate 2 steps convergence!
+Current time T = 1.578125e-01:iterate 2 steps convergence!
+Current time T = 1.593750e-01:iterate 2 steps convergence!
+Current time T = 1.609375e-01:iterate 2 steps convergence!
+Current time T = 1.625000e-01:iterate 2 steps convergence!
+Current time T = 1.640625e-01:iterate 2 steps convergence!
+Current time T = 1.656250e-01:iterate 2 steps convergence!
+Current time T = 1.671875e-01:iterate 2 steps convergence!
+Current time T = 1.687500e-01:iterate 2 steps convergence!
+Current time T = 1.703125e-01:iterate 2 steps convergence!
+Current time T = 1.718750e-01:iterate 2 steps convergence!
+Current time T = 1.734375e-01:iterate 2 steps convergence!
+Current time T = 1.750000e-01:iterate 2 steps convergence!
+Current time T = 1.765625e-01:iterate 2 steps convergence!
+Current time T = 1.781250e-01:iterate 2 steps convergence!
+Current time T = 1.796875e-01:iterate 2 steps convergence!
+Current time T = 1.812500e-01:iterate 2 steps convergence!
+Current time T = 1.828125e-01:iterate 2 steps convergence!
+Current time T = 1.843750e-01:iterate 2 steps convergence!
+Current time T = 1.859375e-01:iterate 2 steps convergence!
+Current time T = 1.875000e-01:iterate 2 steps convergence!
+Current time T = 1.890625e-01:iterate 2 steps convergence!
+Current time T = 1.906250e-01:iterate 2 steps convergence!
+Current time T = 1.921875e-01:iterate 2 steps convergence!
+Current time T = 1.937500e-01:iterate 2 steps convergence!
+Current time T = 1.953125e-01:iterate 2 steps convergence!
+Current time T = 1.968750e-01:iterate 2 steps convergence!
+Current time T = 1.984375e-01:iterate 2 steps convergence!
+Current time T = 2.000000e-01:iterate 2 steps convergence!
+
+tau =
+
+   1.0000e-01
+
+Current time T = 1.000000e-01:iterate 180 steps convergence!
+Current time T = 2.000000e-01:iterate 2 steps convergence!
+
+uh_L2_error_1 =
+
+   1.6212e-01
+
+
+ph_L2_error_1 =
+
+   3.2255e-02
+
+
+uh_H1_error_1 =
+
+   2.3046e-01
+
+
+uh_H1_1 =
+
+   2.8177e-01
+
+
+tau =
+
+   5.0000e-02
+
+Current time T = 5.000000e-02:iterate 239 steps convergence!
+Current time T = 1.000000e-01:iterate 2 steps convergence!
+Current time T = 1.500000e-01:iterate 2 steps convergence!
+Current time T = 2.000000e-01:iterate 2 steps convergence!
+
+uh_L2_error_2 =
+
+   8.6577e-02
+
+Convergence order of uh_L2 = 0.905005***
+
+ph_L2_error_2 =
+
+   1.6542e-02
+
+Convergence order of ph_L2 = 0.963353***
+
+uh_H1_error_2 =
+
+   1.2265e-01
+
+Convergence order of uh_sime_H1 = 0.909949***
+
+uh_H1_2 =
+
+   1.5013e-01
+
+Convergence order of uh_H1 = 0.908309***
+
+tau =
+
+   2.5000e-02
+
+Current time T = 2.500000e-02:iterate 303 steps convergence!
+Current time T = 5.000000e-02:iterate 66 steps convergence!
+Current time T = 7.500000e-02:iterate 2 steps convergence!
+Current time T = 1.000000e-01:iterate 2 steps convergence!
+Current time T = 1.250000e-01:iterate 2 steps convergence!
+Current time T = 1.500000e-01:iterate 2 steps convergence!
+Current time T = 1.750000e-01:iterate 2 steps convergence!
+Current time T = 2.000000e-01:iterate 2 steps convergence!
+
+uh_L2_error_4 =
+
+   4.3819e-02
+
+Convergence order of uh_L2 = 0.982420***
+
+ph_L2_error_4 =
+
+   8.1890e-03
+
+Convergence order of ph_L2 = 1.014409***
+
+uh_H1_error_4 =
+
+   6.1916e-02
+
+Convergence order of uh_sime_H1 = 0.986189***
+
+uh_H1_4 =
+
+   7.5853e-02
+
+Convergence order of uh_H1 = 0.984933***
+
+tau =
+
+   1.2500e-02
+
+Current time T = 1.250000e-02:iterate 427 steps convergence!
+Current time T = 2.500000e-02:iterate 83 steps convergence!
+Current time T = 3.750000e-02:iterate 35 steps convergence!
+Current time T = 5.000000e-02:iterate 2 steps convergence!
+Current time T = 6.250000e-02:iterate 2 steps convergence!
+Current time T = 7.500000e-02:iterate 2 steps convergence!
+Current time T = 8.750000e-02:iterate 2 steps convergence!
+Current time T = 1.000000e-01:iterate 2 steps convergence!
+Current time T = 1.125000e-01:iterate 2 steps convergence!
+Current time T = 1.250000e-01:iterate 2 steps convergence!
+Current time T = 1.375000e-01:iterate 2 steps convergence!
+Current time T = 1.500000e-01:iterate 2 steps convergence!
+Current time T = 1.625000e-01:iterate 2 steps convergence!
+Current time T = 1.750000e-01:iterate 2 steps convergence!
+Current time T = 1.875000e-01:iterate 2 steps convergence!
+Current time T = 2.000000e-01:iterate 2 steps convergence!
+
+uh_L2_error_8 =
+
+   2.0911e-02
+
+Convergence order of uh_L2 = 1.067337***
+
+ph_L2_error_8 =
+
+   3.8667e-03
+
+Convergence order of ph_L2 = 1.082583***
+
+uh_H1_error_8 =
+
+   2.9535e-02
+
+Convergence order of uh_sime_H1 = 1.067870***
+
+uh_H1_8 =
+
+   3.6188e-02
+
+Convergence order of uh_H1 = 1.067692***
+
